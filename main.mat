@@ -1,0 +1,2 @@
+supportedChannels chan(8, #osu, #osumania, #taiko, #ctb, #lobby, #mapping, #help, #modreqs)
+logfiles log(2, .log, .ini)
